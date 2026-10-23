@@ -59,7 +59,7 @@ This repository is a **public showcase only**. The source code, models and confi
 
 ## Authors
 
-**[Yassine Nemri](https://github.com/Nemri-Yassine)** · **[Ihab Lamouchi](https://github.com/iheblam)**
+**[Yassine Nemri](https://github.com/Nemri-Yassine)** · **[Iheb Lamouchi](https://github.com/iheblam)**
 
 <div align="center">
 
@@ -69,5 +69,5 @@ This repository is a **public showcase only**. The source code, models and confi
 
 ---
 
-<sub>© 2026 Yassine Nemri and Ihab Lamouchi. All rights reserved. The images and video in this repository may not be
+<sub>© 2026 Yassine Nemri and Iheb Lamouchi. All rights reserved. The images and video in this repository may not be
 reused without permission.</sub>
