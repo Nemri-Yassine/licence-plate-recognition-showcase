@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚗 Licence Plate Recognition · v2
+# Licence Plate Recognition · v2
 
 **Detect · Read · Track · Measure speed** — in images, videos, webcams and live streams.
 Latin and Arabic plates, one stable reading per vehicle, everything exported to Excel.
@@ -56,10 +56,6 @@ Same idea, rebuilt from the ground up with today's models and libraries.
 
 This repository is a **public showcase only**. The source code, models and configuration live in a
 **private repository**. For access, a demo or a collaboration, contact the authors.
-
-## Authors
-
-**[Yassine Nemri](https://github.com/Nemri-Yassine)** · **[Iheb Lamouchi](https://github.com/iheblam)**
 
 <div align="center">
 
